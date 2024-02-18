@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 class Library:
     def __init__(self):
@@ -85,12 +74,6 @@ while True:
 
 
 
-
-
-
-
-
-# In[ ]:
 
 
 
